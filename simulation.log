@@ -1,0 +1,65 @@
+2025-06-28 17:42:38,578 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:42:38,588 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:42:38,589 - INFO - Found 116 records in the simulation period
+2025-06-28 17:42:38,590 - INFO - Processing date: 2023-01-01
+2025-06-28 17:42:38,594 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:43:31,136 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:43:31,153 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:43:31,156 - INFO - Found 116 records in the simulation period
+2025-06-28 17:43:31,187 - INFO - Processing date: 2023-01-01
+2025-06-28 17:43:31,192 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:43:32,756 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:43:32,770 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:43:32,774 - INFO - Found 116 records in the simulation period
+2025-06-28 17:43:32,776 - INFO - Processing date: 2023-01-01
+2025-06-28 17:43:32,781 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:44:49,193 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:44:49,207 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:44:49,210 - INFO - Found 116 records in the simulation period
+2025-06-28 17:44:49,211 - INFO - Processing date: 2023-01-01
+2025-06-28 17:44:49,214 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:45:03,968 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:45:03,983 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:45:03,986 - INFO - Found 116 records in the simulation period
+2025-06-28 17:45:03,987 - INFO - Processing date: 2023-01-01
+2025-06-28 17:45:03,991 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:50:03,367 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:50:03,382 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:50:03,385 - INFO - Found 116 records in the simulation period
+2025-06-28 17:50:03,392 - INFO - Processing date: 2023-01-01
+2025-06-28 17:50:03,396 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:50:22,695 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:50:22,708 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:50:22,711 - INFO - Found 116 records in the simulation period
+2025-06-28 17:50:22,712 - INFO - Processing date: 2023-01-01
+2025-06-28 17:50:22,717 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 17:51:02,435 - INFO - Loaded full processed data with 6575 records
+2025-06-28 17:51:02,446 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 17:51:02,449 - INFO - Found 116 records in the simulation period
+2025-06-28 17:51:02,450 - INFO - Processing date: 2023-01-01
+2025-06-28 17:51:02,453 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 18:02:16,376 - INFO - Loaded full processed data with 6575 records
+2025-06-28 18:02:16,395 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 18:02:16,397 - INFO - Found 116 records in the simulation period
+2025-06-28 18:02:16,398 - INFO - Processing date: 2023-01-01
+2025-06-28 18:02:16,401 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 18:02:50,708 - INFO - Loaded full processed data with 6575 records
+2025-06-28 18:02:50,723 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 18:02:50,726 - INFO - Found 116 records in the simulation period
+2025-06-28 18:02:50,727 - INFO - Processing date: 2023-01-01
+2025-06-28 18:02:50,734 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-28 18:09:01,271 - INFO - Loaded full processed data with 6575 records
+2025-06-28 18:09:01,279 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-28 18:09:01,281 - INFO - Found 116 records in the simulation period
+2025-06-28 18:09:01,282 - INFO - Processing date: 2023-01-01
+2025-06-28 18:09:01,283 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-29 15:31:21,708 - INFO - Loaded full processed data with 6575 records
+2025-06-29 15:31:21,743 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-29 15:31:21,750 - INFO - Found 116 records in the simulation period
+2025-06-29 15:31:21,752 - INFO - Processing date: 2023-01-01
+2025-06-29 15:31:21,761 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-06-29 15:44:18,215 - INFO - Loaded full processed data with 6575 records
+2025-06-29 15:44:18,230 - INFO - Running simulation from 2023-01-01 00:00:00 to 2023-01-07 00:00:00
+2025-06-29 15:44:18,233 - INFO - Found 116 records in the simulation period
+2025-06-29 15:44:18,234 - INFO - Processing date: 2023-01-01
+2025-06-29 15:44:18,242 - ERROR - Simulation failed: The truth value of a Series is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
